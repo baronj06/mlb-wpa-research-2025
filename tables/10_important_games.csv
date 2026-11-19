@@ -1,0 +1,26 @@
+player_name,selection,game_pk,date,sum,size
+Freddie Freeman,largest_positive,777022,2025-07-23,0.5383425371473959,5
+Freddie Freeman,largest_positive,777119,2025-07-13,0.4503610083451814,5
+Freddie Freeman,largest_positive,776788,2025-08-10,0.43707236000874206,5
+Freddie Freeman,largest_negative,776496,2025-09-02,-0.25666822900493774,5
+Freddie Freeman,largest_negative,777899,2025-05-16,-0.21071928357064468,4
+Shohei Ohtani,largest_positive,777988,2025-05-09,0.5242533671951157,6
+Shohei Ohtani,largest_positive,778472,2025-04-02,0.4899626778753843,5
+Shohei Ohtani,largest_positive,778163,2025-04-26,0.36654458498646336,5
+Shohei Ohtani,largest_negative,776963,2025-07-29,-0.23875455469466583,5
+Shohei Ohtani,largest_negative,777884,2025-05-17,-0.20984838800639363,6
+Juan Soto,largest_positive,776501,2025-09-01,0.698145856558368,5
+Juan Soto,largest_positive,776535,2025-08-30,0.5310507549229044,5
+Juan Soto,largest_positive,776252,2025-09-20,0.34918948105217484,6
+Juan Soto,largest_negative,778299,2025-04-16,-0.3364096444000835,5
+Juan Soto,largest_negative,777216,2025-07-06,-0.2665282475641202,4
+Will Smith,largest_positive,776963,2025-07-29,0.5095187126450265,4
+Will Smith,largest_positive,777866,2025-05-18,0.4642095798896394,4
+Will Smith,largest_positive,777838,2025-05-20,0.4261115898328802,5
+Will Smith,largest_negative,777773,2025-05-25,-0.32811526556871284,4
+Will Smith,largest_negative,778035,2025-05-06,-0.2166057959579049,5
+Iván Herrera,largest_positive,777642,2025-06-05,0.7787126216743868,4
+Iván Herrera,largest_positive,777581,2025-06-09,0.6495623121276803,4
+Iván Herrera,largest_positive,778473,2025-04-02,0.3335064106069345,5
+Iván Herrera,largest_negative,776934,2025-07-30,-0.23949160401852126,4
+Iván Herrera,largest_negative,776992,2025-07-26,-0.22353091931817792,4
